@@ -28,7 +28,8 @@ hr.blueline {
   
 <h1>About Us</h1>
 
-<p>  Our college Mission is to impart quality technical education and higher moral ethics associated with skilled training to suit the modern day technology with innovative concepts,so as to learn to lead the future with full confidence
+<p>  Our college Mission is to impart quality technical education and higher moral ethics associated with skilled training to suit the modern day technology with innovative concepts,so as to learn to lead the future with full confidence.
+     It devlop the overall personality if a srudent.
                   .</p>
 
 </div>
